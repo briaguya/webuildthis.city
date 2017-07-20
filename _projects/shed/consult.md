@@ -1,7 +1,7 @@
 ---
 title: Get a Consultation for a Shed Permit in Austin
 step_number: 2
-project_name: shed
+project_name: Shed
 ---
 
 

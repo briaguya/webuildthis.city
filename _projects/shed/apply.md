@@ -1,7 +1,7 @@
 ---
 title: Apply for a Shed Permit in Austin
 step_number: 3
-project_name: shed
+project_name: Shed
 ---
 
 

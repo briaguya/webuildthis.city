@@ -1,7 +1,7 @@
 ---
 title: Define your Shed Project in Austin
 step_number: 1
-project_name: shed
+project_name: Shed
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: >-

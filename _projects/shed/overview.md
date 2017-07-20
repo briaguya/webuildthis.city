@@ -1,7 +1,7 @@
 ---
 title: Shed Permit Overview
 excerpt: 'A simple, enclosed structure that is physically detached from your house and will be used for storage'
-project_name: shed
+project_name: Shed
 in_projects_menu: true
 menu_sort_order: 1
 step_number: 0
