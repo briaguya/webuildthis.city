@@ -1,7 +1,7 @@
 ---
 title: Deck Permit Overview
 excerpt: 'A platform-like structure without walls, often made of planks, that no one will live on and is typically used for lounging and gathering'
-project_name: deck
+project_name: Deck
 in_projects_menu: true
 menu_sort_order: 2
 step_number: 0

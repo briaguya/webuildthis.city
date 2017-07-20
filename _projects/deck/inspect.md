@@ -1,7 +1,7 @@
 ---
 title: Schedule inspections for a Deck Permit in Austin
 step_number: 5
-project_name: deck
+project_name: Deck
 tabs:
   - tab_title: Online
     tab_content_markdown: >

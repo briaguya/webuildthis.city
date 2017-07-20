@@ -1,7 +1,7 @@
 ---
 title: 'Define your Deck Project in Austin, Texas'
 step_number: 1
-project_name: deck
+project_name: Deck
 tabs:
   - tab_title: Setbacks
     tab_content_markdown: "**What is a setback?** The space between a lot's border and the area where a building can be built. Setbacks typically cannot have anything built on them. Regardless of how tall your deck is, you can't build it within 10 feet of the rear border or within 5 feet of the side borders of your lot. [Learn more about setbacks](/resources/glossary/setback)."
